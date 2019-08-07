@@ -2,5 +2,7 @@
 <% ResourceBundle resource = ResourceBundle.getBundle("test");
  
 String version=resource.getString("version");%>
- 
+
+Hello World!..
+
 <%=version %>
