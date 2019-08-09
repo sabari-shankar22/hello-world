@@ -3,6 +3,6 @@
  
 String version=resource.getString("version");%>
 
-Hello, Welcome to Bangalore!..
+Hello, Welcome to Quick Ride Bangalore!..
 
 <%=version %>
